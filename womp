@@ -131,7 +131,7 @@ end
 
 library.WindowCount = 0
 
-local Key = "GooseClient | .gg/GooseV1" --DONT CHANGE OR SCRIPT WILL BREAK
+local Key = "SkiddedLeak | .gg/SkiddedV1" --DONT CHANGE OR SCRIPT WILL BREAK
 
 library.Array = {}
 library.Array.Background = true
@@ -4233,7 +4233,7 @@ TextLabel_2.BorderSizePixel = 0
 TextLabel_2.Position = UDim2.new(0, 0, 1.0476191, 0)
 TextLabel_2.Size = UDim2.new(0, 200, 0, 50)
 TextLabel_2.Font = Enum.Font.FredokaOne
-TextLabel_2.Text = "GooseV1"
+TextLabel_2.Text = "SkiddedV1"
 TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.TextScaled = true
 TextLabel_2.TextSize = 14.000
